@@ -17,7 +17,7 @@ namespace WASender
         private static string languageJson = "";
 
 
-        public readonly static string AppName = "WA Sender";
+        public readonly static string AppName = "WA Marketing Whatsapp";
         public readonly static string Column1 = GetValue("Column1");
         public readonly static string Number = GetValue("Number");
         public readonly static string Column2 = GetValue("Column2");

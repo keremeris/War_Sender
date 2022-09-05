@@ -217,8 +217,8 @@ namespace WASender
             chkDarkMode.Visible = false;
             ///Select Language
             generalSettingsModel = new GeneralSettingsModel();
-          //  generalSettingsModel.selectedLanguage = "Portuguese";
-            generalSettingsModel.selectedLanguage = "English";
+            generalSettingsModel.selectedLanguage = "Portuguese";
+            //generalSettingsModel.selectedLanguage = "English";
             String GetGeneralSettingsFilePath = Config.GetGeneralSettingsFilePath();
             if (!File.Exists(GetGeneralSettingsFilePath))
             {
@@ -1552,6 +1552,79 @@ namespace WASender
         }
 
         private void materialButton24_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label45_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void materialButton24_Click_1(object sender, EventArgs e)
+        {
+            ShowAddButtonDialog();
+        }
+
+        private void materialButton25_Click(object sender, EventArgs e)
+        {
+            GrabGroupLinks grabGroupLinks = new GrabGroupLinks(this);
+            this.Hide();
+            grabGroupLinks.ShowDialog();
+        }
+
+        private void materialButton26_Click(object sender, EventArgs e)
+        {
+            WaAutoReplyBot.WaAutoReplyForm waAutoReplyForm = new WaAutoReplyBot.WaAutoReplyForm(this);
+            this.Hide();
+            waAutoReplyForm.ShowDialog();
+        }
+
+        private void materialButton27_Click(object sender, EventArgs e)
+        {
+            GMapExtractor gMapExtractor = new GMapExtractor(this);
+            this.Hide();
+            gMapExtractor.Show();
+
+        }
+
+        private void materialButton28_Click(object sender, EventArgs e)
+        {
+            GroupsJoiner groupsJoiner = new GroupsJoiner(this);
+            this.Hide();
+            groupsJoiner.ShowDialog();
+        }
+
+        private void materialButton29_Click(object sender, EventArgs e)
+        {
+            NumberFilter numberFilter = new NumberFilter(this);
+            this.Hide();
+            numberFilter.ShowDialog();
+        }
+
+        private void materialButton30_Click(object sender, EventArgs e)
+        {
+            GrabChatList grabGroups = new GrabChatList(this);
+            this.Hide();
+            grabGroups.ShowDialog();
+        }
+
+        private void Tools_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void materialCard9_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void materialLabel27_Click(object sender, EventArgs e)
         {
 
         }

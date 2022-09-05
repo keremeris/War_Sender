@@ -449,6 +449,15 @@
     <Content Include="Resources\success.png" />
     <Content Include="Resources\success1.png" />
     <Content Include="Resources\success2.png" />
+    <Content Include="Resources\tab_icon1 %281%29.png" />
+    <Content Include="Resources\tab_icon1 %282%29.png" />
+    <Content Include="Resources\tab_icon1 %283%29.png" />
+    <Content Include="Resources\tab_icon1 %284%29.png" />
+    <Content Include="Resources\tab_icon1 %285%29.png" />
+    <Content Include="Resources\tab_icon1 %286%29.png" />
+    <Content Include="Resources\tab_icon1 %287%29.png" />
+    <Content Include="Resources\tab_icon1 %288%29.png" />
+    <Content Include="Resources\tab_icon1 %289%29.png" />
     <Content Include="Resources\warning.png" />
   </ItemGroup>
   <ItemGroup>

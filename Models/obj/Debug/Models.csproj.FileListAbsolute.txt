@@ -1,0 +1,12 @@
+D:\ProjectFiles\WABulk_Sender\CodeCanyon\CodeHere\Models\bin\Debug\Models.dll
+D:\ProjectFiles\WABulk_Sender\CodeCanyon\CodeHere\Models\bin\Debug\Models.pdb
+D:\ProjectFiles\WABulk_Sender\CodeCanyon\CodeHere\Models\bin\Debug\FluentValidation.dll
+D:\ProjectFiles\WABulk_Sender\CodeCanyon\CodeHere\Models\obj\Debug\Models.dll
+D:\ProjectFiles\WABulk_Sender\CodeCanyon\CodeHere\Models\obj\Debug\Models.pdb
+D:\ProjectFiles\WABulk_Sender\CodeCanyon\CodeHere\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\War_Sender\Atualizado-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\Models\bin\Debug\Models.dll
+E:\War_Sender\Atualizado-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\Models\bin\Debug\Models.pdb
+E:\War_Sender\Atualizado-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\Models\bin\Debug\FluentValidation.dll
+E:\War_Sender\Atualizado-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\War_Sender\Atualizado-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\Models\obj\Debug\Models.dll
+E:\War_Sender\Atualizado-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\Models\obj\Debug\Models.pdb
